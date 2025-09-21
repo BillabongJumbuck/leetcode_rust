@@ -1,8 +1,6 @@
+mod array;
 mod list;
 
-use list::singly_linked_list::ListNode;
-use list::list_21::Solution;
+use std::fmt;
 
-fn main() {
-    
-}
+fn main() {}
